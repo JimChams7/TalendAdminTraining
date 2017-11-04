@@ -7,6 +7,19 @@
     <documentationStatus xmi:id="_LUbp0MGGEeec-I49O-SBPw" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_LUbp0cGGEeec-I49O-SBPw" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_LUbp0sGGEeec-I49O-SBPw" label="validated" code="VAL"/>
+    <ItemsRelations xmi:id="_XVw4QMGHEeec-I49O-SBPw">
+      <baseItem xmi:id="_XVw4QcGHEeec-I49O-SBPw" id="__dolgMGGEeec-I49O-SBPw" version="13.0" type="job"/>
+      <relatedItems xmi:id="_XVw4QsGHEeec-I49O-SBPw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XVw4Q8GHEeec-I49O-SBPw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XVw4RMGHEeec-I49O-SBPw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XVw4RcGHEeec-I49O-SBPw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XVw4RsGHEeec-I49O-SBPw" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XVxfUMGHEeec-I49O-SBPw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XVxfUcGHEeec-I49O-SBPw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XVxfUsGHEeec-I49O-SBPw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XVxfU8GHEeec-I49O-SBPw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XVxfVMGHEeec-I49O-SBPw" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_LTRzQMGGEeec-I49O-SBPw" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_LTSaUMGGEeec-I49O-SBPw" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_LTSaUcGGEeec-I49O-SBPw" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
